@@ -1,6 +1,6 @@
 # Coursera_3_GCD
 Getting and Cleaning Data course project
-
+By Yuri Castro
 
 # Scritp run_analysis.r
 Contains  R script that does the following 
