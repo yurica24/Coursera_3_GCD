@@ -16,5 +16,5 @@ Contains  R script that does the following
 2. Github repo <https://github.com/yurica24/Coursera_3_GCD/>
 3. Analysis R Script  <https://github.com/yurica24/Coursera_3_GCD/run_analysis.R>
 4. Codebook <https://github.com/yurica24/Coursera_3_GCD/CodeBook.md>
-5. Readme  "This file"
+5. Readme   <https://github.com/yurica24/Coursera_3_GCD/README.md>
 
