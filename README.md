@@ -12,10 +12,9 @@ Contains  R script that does the following
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 #Criterial
-
-Github repo <https://github.com/yurica24/Coursera_3_GCD/>
-Analysis R Script  <https://github.com/yurica24/Coursera_3_GCD/run_analysis.R>
-Tidy new data  <https://github.com/yurica24/Coursera_3_GCD/tidyData.txt>
-Codebook <https://github.com/yurica24/Coursera_3_GCD/CodeBook.md>
-Readme <This file>
+1. Tidy new data  <https://github.com/yurica24/Coursera_3_GCD/tidyData.txt>
+2. Github repo <https://github.com/yurica24/Coursera_3_GCD/>
+3. Analysis R Script  <https://github.com/yurica24/Coursera_3_GCD/run_analysis.R>
+4. Codebook <https://github.com/yurica24/Coursera_3_GCD/CodeBook.md>
+5. Readme  "This file"
 
